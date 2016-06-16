@@ -42,7 +42,7 @@ Student.prototype.dating = function(){ console.log('请勿在教师啪啪啪啪!
 
 
 
-#HTML代码..... 简写 嵌入至HTML...在控制台内输出.
+<!--#HTML代码..... 简写 嵌入至HTML...在控制台内输出.-->
  <script> var person = new person ('jack',18'男');
  person.sleep();
  person.dating();
